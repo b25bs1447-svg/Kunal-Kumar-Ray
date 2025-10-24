@@ -1,0 +1,5 @@
+{
+  "name": "Adventure Image Converter",
+  "description": "Upload an image and provide a prompt to transform it into a stunning adventure-themed image using the Gemini API.",
+  "requestFramePermissions": []
+}
